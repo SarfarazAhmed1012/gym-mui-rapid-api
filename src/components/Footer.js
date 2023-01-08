@@ -37,10 +37,10 @@ const Footer = () => (
       alignItems="center"
       justifyContent="center"
     >
-      <a href="https://github.com/">
+      <a href="https://github.com/SarfarazAhmed1012/gym-mui-rapid-api">
         <GitHubIcon style={{ color: "white" }} />
       </a>
-      <a href="https://linkedin.com/">
+      <a href="https://www.linkedin.com/in/sarfaraz-ahmed-215ba016a">
         <LinkedIn style={{ color: "white" }} />
       </a>
       <a href="mailto:sarfarazahmed1012@gmail.com">
