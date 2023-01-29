@@ -4,4 +4,4 @@
 ### `npm start` to start the server on localhost
 
 
-https://portfolio-sarfaraz-ahmed.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyg.d2534666.png&w=1920&q=75
+![image](https://user-images.githubusercontent.com/69521378/215335791-a1070c34-ae23-4ff1-bacc-eb04cf23add8.png)
